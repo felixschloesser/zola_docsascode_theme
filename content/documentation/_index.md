@@ -1,5 +1,5 @@
 +++
-title = "Docs Zola"
+title = "Zola Docs"
 insert_anchor_links = "right"
 +++
 
@@ -10,7 +10,7 @@ Getting started
  - CLI usage
  - Directory structure
  - config.toml
- 
+
 Content
  - Organisation
  - Sections
@@ -20,7 +20,7 @@ Content
  - Table of contents
  - Syntax highlighting
  - Sass
- 
+
 Templates
  - Intro
  - Each kind of page and the variables available
